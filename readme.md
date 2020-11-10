@@ -2,4 +2,4 @@
 2. 训练完成，并且测试完成后生成result.txt文件，
 然后运行以下命令
 
-```t```perl conlleval.pl < result.txt~~~~
+perl conlleval.pl < result.txt
